@@ -1,0 +1,31 @@
+""
+Este modulo
+calcula la edad del alumno
+cuando ingresa el año de nacimiento
+""
+
+int = integer
+edad = 18 #indica la edad 
+""
+Hola chicos
+como estan?
+""
+float = flotante o real
+precio = 9,99
+altura = 1,75
+
+cadena de texto = string 
+nombre = "Rafael"
+mensaje = "Hola" "Mundo"
+
+Booleamos = Bool
+
+mayor_edad=True; mayor_edad=False
+
+ if edad = 18
+ if edad == 18 
+ 
+a = b = c = 10 
+
+edad= input("Ingrese su edad: ")
+ 
